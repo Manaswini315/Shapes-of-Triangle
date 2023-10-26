@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shapes calculation", "ConsoleApp15\shapes calculation.csproj", "{4334DD61-1C7A-48ED-9955-1B41EA4EC612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4334DD61-1C7A-48ED-9955-1B41EA4EC612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4334DD61-1C7A-48ED-9955-1B41EA4EC612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4334DD61-1C7A-48ED-9955-1B41EA4EC612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4334DD61-1C7A-48ED-9955-1B41EA4EC612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683B56DD-6687-4AA1-814B-67F8E3CABE98}
+	EndGlobalSection
+EndGlobal
